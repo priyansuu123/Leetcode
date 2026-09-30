@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/priyansuu123/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/priyansuu123/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyansuu123/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/priyansuu123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansuu123/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyansuu123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyansuu123/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/priyansuu123/Leetcode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/priyansuu123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyansuu123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/priyansuu123/Leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/priyansuu123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
