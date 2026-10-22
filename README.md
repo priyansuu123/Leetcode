@@ -83,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/priyansuu123/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/priyansuu123/Leetcode/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/priyansuu123/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyansuu123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyansuu123/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansuu123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/priyansuu123/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
