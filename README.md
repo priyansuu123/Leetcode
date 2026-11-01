@@ -89,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/priyansuu123/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/priyansuu123/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/priyansuu123/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/priyansuu123/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/priyansuu123/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyansuu123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyansuu123/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/priyansuu123/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
