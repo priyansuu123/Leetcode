@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyansuu123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyansuu123/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/priyansuu123/Leetcode/tree/master/1470-shuffle-the-array) |
+| [2574-left-and-right-sum-differences](https://github.com/priyansuu123/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/priyansuu123/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/priyansuu123/Leetcode/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/priyansuu123/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
